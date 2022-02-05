@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @fardin-kibria
-- 👀 I’m interested in opportunities in frontend development
-- 🌱 I’m currently learning everyday to improve my knowledge and skill with my preferred tech stack: HTML, CSS, JavaScript, REACT
+- 👀 I’m an Electrial Engineer turned Software Engineer interested in opportunities to become a part of building cool products
+- 🌱 I’m currently learning everyday to improve my knowledge and skill with my preferred tech stack: HTML, CSS, JavaScript, React to build effective UI's
 - 💞️ I’m looking to collaborate on projects that have a customer facing product with opportunity to learn and grow as a developer
+- 🏏 Apart from software engineering, after work hours I train at my nearest cricket facility with dreams of playing the highest level one-day
 - 📫 To contact me: 
 
 <!---
